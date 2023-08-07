@@ -1,0 +1,13 @@
+{
+    "git.autorefresh": true,
+    "git.enableCommitSigning": false,
+    "git.enabled": true,
+    "git.enableStatusBarSync": true,
+    "git.pullTags": true,
+    "git.requireGitUserConfig": true,
+    "git.suggestSmartCommit": true,
+    "git.supportCancellation": false,
+    "git.terminalAuthentication": true,
+    "git.verboseCommit": false,
+    "search.useIgnoreFiles": true
+}
